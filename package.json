@@ -1,0 +1,31 @@
+{
+  "name": "cico-api",
+  "version": "1.0.0",
+  "description": "提供一些日常使用的小型 API",
+  "author": {
+    "name": "HanaNoryu",
+    "url": "https://www.hananoryu.cn",
+    "email": "HanaNoryu@outlook.com"
+  },
+  "license": "MIT",
+  "homepage": "",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "bugs": {
+    "url": ""
+  },
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint .",
+    "serve": "vercel dev",
+    "test": "echo kawaii"
+  },
+  "dependencies": {
+    "@antfu/eslint-config": "^0.37.0",
+    "@vercel/node": "^2.9.13",
+    "eslint": "^8.36.0",
+    "vercel": "^28.17.0"
+  }
+}
