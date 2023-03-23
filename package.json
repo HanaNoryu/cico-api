@@ -11,10 +11,10 @@
   "homepage": "",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/HanaNoryu/cico-api.git"
   },
   "bugs": {
-    "url": ""
+    "url": "https://github.com/HanaNoryu/cico-api/issues"
   },
   "main": "index.js",
   "scripts": {
